@@ -1,0 +1,19 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "there are 3 candidtes....",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "mongoose": "^5.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "surajlab_4"
+  ],
+  "author": "suraj_kumar",
+  "license": "ISC"
+}

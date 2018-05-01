@@ -1,0 +1,15 @@
+{
+  "name": "oot",
+  "version": "1.0.0",
+  "description": "Online_Order_Tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ".git"
+  },
+  "author": "Suraj Kumar ganesh",
+  "license": "ISC"
+}
